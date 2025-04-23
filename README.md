@@ -1,2 +1,2 @@
 # Ciencia da computacao
- Repositório das atividades
+ Repositório de tarefas da disciplina de Fundamentos de inteligência computacional e ciência de dados.
